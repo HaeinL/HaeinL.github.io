@@ -30,7 +30,8 @@ body {
   border-radius: 3%;
 }
 
-.hero.is-primary {
+.hero {
   background-color: #fab4ea;
   color: #fab4ea;
 }
+
