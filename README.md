@@ -1,1 +1,1 @@
-this is haein's blog page
+This is haein's blog page
